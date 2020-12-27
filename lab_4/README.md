@@ -18,9 +18,9 @@ sudo docker inspect python:3.8-slim
 4. Створив репозиторій на DockerHub
 5. Виконав команди:
 ```
-sudo docker build -t dp-pavliuk/devops_course:django .
+sudo docker build -t pavliukdanylo/devops_course:django .
 sudo docker images 
-sudo docker push dp-pavliuk/devops_course:django
+sudo docker push pavliukdanylo/devops_course:django
 ```
 Посилання на [репозиторій](https://hub.docker.com/u/pavliukdanylo)
 
