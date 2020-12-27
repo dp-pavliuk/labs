@@ -22,7 +22,7 @@ sudo docker build -t dp-pavliuk/devops_course:django .
 sudo docker images 
 sudo docker push dp-pavliuk/devops_course:django
 ```
-Посилання на [репозиторій](https://https://hub.docker.com/u/pavliukdanylo)
+Посилання на [репозиторій](https://hub.docker.com/u/pavliukdanylo)
 
 Посилання на [імейдж](https://hub.docker.com/layers/pavliukdanylo/devops_course/django/images/sha256-40c95d98f8fd87b6451b5797db2ba5b2f6bff1c3fc493bc15e2605b379da7320?context=explore)
 
