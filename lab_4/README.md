@@ -28,7 +28,7 @@ sudo docker push dp-pavliuk/devops_course:django
 
 6. Виконав команду
 ```
-sudo docker run -it --rm -p 8000:8000 yatsynychroman/devops_course:django
+sudo docker run -it --rm -p 8000:8000 pavliukdanylo/devops_course:django
 ```
 7. Створив файл *Dockerfile.monitoring*
 8. Виконав білд імейджа:
